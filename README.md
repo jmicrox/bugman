@@ -1,2 +1,0 @@
-# bugman
-GitHub Pages
